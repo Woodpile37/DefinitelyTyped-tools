@@ -22,7 +22,7 @@
     "@definitelytyped/typescript-versions": "^0.0.142",
     "@definitelytyped/utils": "^0.0.142",
     "pacote": "^13.6.1",
-    "semver": "^7.3.7",
+    "semver": "^6.3.1",
     "yargs": "^15.3.1"
   },
   "devDependencies": {
